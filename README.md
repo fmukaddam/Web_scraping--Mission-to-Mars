@@ -18,3 +18,4 @@ Obtained high resolution images for each of Mar's hemispheres from the USGS Astr
 
 # Step 2 - MongoDB and Flask Application
 Used MongoDB with Flask templating to create a new HTML page that displays all of the information that was scraped from the URLs above.
+Created a template HTML file called index.html that will take the mars data dictionary and display all of the data in the appropriate HTML elements.
